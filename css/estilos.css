@@ -1,0 +1,38 @@
+footer {
+  background-color: grey;
+  width: 100%;
+}
+
+#clientes {
+  padding: 25px;
+}
+
+#ft {
+  padding: 15px;
+}
+
+header img {
+  height: 650px;
+  width: 650px;
+}
+
+footer {
+  background-color: grey;
+}
+
+.col img {
+  height: 400px;
+  width: 400px;
+}
+
+.col {
+  padding: 10px;
+}
+
+.container {
+  padding: 12px;
+}
+
+#ft {
+  padding: 15px;
+}
