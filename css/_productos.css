@@ -1,0 +1,17 @@
+footer{
+    background-color: grey;
+}
+.col{
+    padding: 10px;
+}
+.container{
+    padding: 12px;
+}
+#ft{
+  padding: 15px;
+}
+#prod img {
+    height: 400px;
+    width: 400px;
+}
+  
